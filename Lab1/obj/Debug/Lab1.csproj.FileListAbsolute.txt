@@ -1,0 +1,6 @@
+/Users/hugo/Desktop/Solution1/Lab1/bin/Debug/Lab1.exe
+/Users/hugo/Desktop/Solution1/Lab1/bin/Debug/Lab1.pdb
+/Users/hugo/Desktop/Solution1/Lab1/obj/Debug/Lab1.csprojAssemblyReference.cache
+/Users/hugo/Desktop/Solution1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/hugo/Desktop/Solution1/Lab1/obj/Debug/Lab1.exe
+/Users/hugo/Desktop/Solution1/Lab1/obj/Debug/Lab1.pdb
